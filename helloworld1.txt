@@ -1,0 +1,9 @@
+//program for hello world
+/* this is a comment */
+#include<stdio.h>
+int main()
+{
+	printf("Hello World!"); /*to print helloworld */
+	return 0;
+	// end of the program
+}
