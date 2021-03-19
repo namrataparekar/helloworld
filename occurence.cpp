@@ -20,4 +20,5 @@ int main()
 	ans=occur(n,k);
 	printf("%d\n",ans);
 	return 0;
-}
+} //Comments to demonstrate Q2
+//This is last line
